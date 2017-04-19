@@ -1,6 +1,6 @@
 # npmtest-babel-root-import
 
-#### test coverage for  [babel-root-import (v4.1.8)](https://github.com/entwicklerstube/babel-root-import#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-root-import.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-root-import) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-root-import.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-root-import)
+#### basic test coverage for  [babel-root-import (v4.1.8)](https://github.com/entwicklerstube/babel-root-import#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-root-import.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-root-import) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-root-import.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-root-import)
 
 #### Babel Plugin to enable relative root-import
 
